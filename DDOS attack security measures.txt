@@ -6,4 +6,4 @@ SQL Injection: The request "GET /admin/remove_product?id=drop+database+users HTT
 
 Internal server errors: The requests "POST /purchase HTTP/1.0" and "GET /purchase/completed HTTP/1.0" returned internal server errors (500). These errors can be an indication of potential server vulnerabilities, and immediate action is required to identify and fix the root cause of these errors to ensure the website remains stable and available for customers.
 
-To strengthen the website's security, it is recommended to implement a Web Application Firewall (WAF) to block unauthorized access attempts and SQL injection attacks, ensure all server software is up-to-date, implement proper input validation and sanitization techniques, and monitor the website's access logs regularly to detect any suspicious activity.
+To strengthen the website's security, it is recommended to implement a Web Application Firewall (WAF) to block unauthorized access attempts and SQL injection attacks, ensure all server software is up-to-date, implement proper input validation and sanitization techniques, and monitor the website's access logs regularly to detect any suspicious  activity.
